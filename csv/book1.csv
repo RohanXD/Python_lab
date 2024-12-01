@@ -1,0 +1,12 @@
+﻿Item,Cost,Sold,Profit
+Keyboard,10,,
+Monitor,,120,
+Mouse,5,7,2
+cooling pad,10,,
+motherboard,50,45,-5
+gpu,500,1000,500
+cpu,250,300,50
+power supply,,96,
+wires,15,,
+fans,,24,
+Total,840,1592,547

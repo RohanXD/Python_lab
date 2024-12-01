@@ -1,0 +1,9 @@
+a=input("Enter A:")
+b=input("Enter B:")
+c=input("Enter C:")
+if (a>b>c):
+    print(a,"is greatest")
+elif (b>a>c):
+    print(b,"is greatest")
+else :
+    print(c,"is greatest")
